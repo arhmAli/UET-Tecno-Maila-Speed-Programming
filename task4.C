@@ -4,11 +4,6 @@
 //store this in a file and whhen u read the specific file
 //It should give u the average of students
 
-// Take an input from a user that is time
-//hours "say 12:23:23"
-//output that time in seconds
-
-
 #include<iostream>
 
 using namespace std;
